@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>formating tags</title>
+</head>
+<body>
+<h4> lets see how formating tags are used</h4>
+<p1>
+<font> face= "GAGALIN" size="24"  colour="FFFFFF">
+hi i am sri chandana
+</font><br>
+bold or strong do same work <B> how r u all </B><br>
+<I> this text is italic </I><br>
+<u> u for underline </u><br>
+<q> quatation </q><br>
+delete or strike do same work <del> you</del><br>
+<small> little</small><br>
+<abbr title ="chandu"> chandana</abbr><br>
+<dbo dir=rtl> i am ok </dbo><br>
+<dbo dir=ltr> i am ok </dbo><br>
+chandu is <sub> good </sub><br>
+chandu is <sup> good </sup><br>
+<ins> so we are done</ins><br>
+</p1><br>
+<p2>
+so these are the texts using all <mark>formating tags</mark><br>
+THANK YOU ALL
+</p2>
