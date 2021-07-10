@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2> school and college details</h2>
+<table border='2'>
+<caption>information</caption>
+  <tr>
+    <td><b>Degree/Grade</b></td>
+    <td><b>Institution</b></td>
+    <td><b>Score</b></td>
+  </tr>
+  <tr>
+    <td>B.Tech ECE </td>
+    <td>Vaagdevi College Of Engineering</td>
+    <td>7.93/10 CGPA</td>
+  </tr>
+  <tr>
+    <td>Intermediate</td>
+    <td>SR Junior College For Girls</td>
+    <td>75 % [2018]</td>
+  </tr>
+  <tr>
+    <td>10th(High school)</td>
+    <td>Platinum jubilee high school</td>
+    <td>78 % [2016]</td>
+  </tr>
+</table>
+
+<h2>ACHIVMENTS</h2>
+
+<dl>
+  <dt>In schooling</dt>
+  <dd>
+    <ol>
+  <li>Yoga in district level</li>
+  <li>Katas(karate) in state level</li>
+  <li>Abacus in state level </li>
+    </ol>
+  </dd>
+  
+</dl>
+
+
+</body>
+</html>
