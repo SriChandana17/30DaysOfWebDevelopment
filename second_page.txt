@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> second Page</title>
+</head>
+<body>
+
+<h3>My second page</h3>
+<p> how are u all .</p>
+<a href="first_page.html"> click here to go to second page</a>
+
+</body>
+</html>
